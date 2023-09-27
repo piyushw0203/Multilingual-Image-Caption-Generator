@@ -13,5 +13,5 @@ CNN - Used VGG16 for Feature Extraction
 streamlit\
 googletrans\
 tensorflow-keras  
-f
+
 
